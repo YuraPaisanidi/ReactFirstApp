@@ -1,0 +1,15 @@
+h3{
+	margin: 0;
+}
+
+.item{
+	display: flex;
+	flex-direction: column;
+	gap: 10px	;
+}
+
+.posts{
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+}
