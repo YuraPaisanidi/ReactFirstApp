@@ -13,3 +13,19 @@ h3{
 	flex-direction: column;
 	gap: 10px;
 }
+
+.create {
+	display: flex;
+	align-items: flex-start;
+	flex-direction: column;
+}
+
+.create button {
+	width: 100px;
+	height: 30px;
+}
+
+.create textarea {
+	margin-bottom: 20px;
+	width: 100%;
+}
