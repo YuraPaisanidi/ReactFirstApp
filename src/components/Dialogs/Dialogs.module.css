@@ -33,3 +33,19 @@
 	border: 1px solid lightgrey;
 	padding: 10px;
 }
+
+.yourMessage {
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+}
+
+.textarea {
+	height: 100px;
+	resize: none;
+}
+
+.sendBtn {
+	max-width: 50px;
+	height: 30px;
+}
